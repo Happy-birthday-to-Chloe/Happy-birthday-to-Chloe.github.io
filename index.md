@@ -1,6 +1,6 @@
 [<img src="https://Happy-birthday-to-Chloe.github.io/my_pic.jpg" height="200" style="float: right;">](https://Happy-birthday-to-Chloe.github.io/my_pic.jpg)
 
-[<img src="https://Happy-birthday-to-Chloe.github.io/my_pic.jpg" height="200" style="float: right;">](https://Happy-birthday-to-Chloe.github.io/my_pic2.jpg)
+[<img src="https://Happy-birthday-to-Chloe.github.io/my_pic2.jpg" height="200" style="float: right;">](https://Happy-birthday-to-Chloe.github.io/my_pic2.jpg)
 
 
 
