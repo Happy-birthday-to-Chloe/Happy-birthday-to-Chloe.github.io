@@ -20,7 +20,7 @@
 
 
 
-<video width="960" height="544" controls>
+<video width="480" height="272" controls>
     <source src="001.mp4" type="video/mp4">
 </video>
 
