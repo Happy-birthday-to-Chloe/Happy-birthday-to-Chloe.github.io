@@ -18,7 +18,9 @@
 
 
 
-<video width="320" height="240" controls>
+
+
+<video width="960" height="544" controls>
     <source src="001.mp4" type="video/mp4">
 </video>
 
