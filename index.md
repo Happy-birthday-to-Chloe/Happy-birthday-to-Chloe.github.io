@@ -1,6 +1,6 @@
 [<img src="https://Happy-birthday-to-Chloe.github.io/my_pic.jpg" height="200" style="float: right;">](https://Happy-birthday-to-Chloe.github.io/my_pic.jpg)
 
-#### 陪伴是深情的表白 🍂
+#### 陪伴是深情的告白 🍂
 
 #### 明天依然为你痴情 💗
 
